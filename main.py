@@ -2,7 +2,7 @@ import requests
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-url = "https://sis.tuburan.ctu.edu.ph/user/profile?id=1005"  # Target URL
+url = ""  # <-- Target URL
 start_id = 1
 end_id = 3000
 
